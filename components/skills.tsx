@@ -60,7 +60,7 @@ export function Skills() {
         }`}
       >
         <h2 className="mb-12 flex items-center text-2xl font-bold text-foreground">
-          <span className="mr-2 font-mono text-xl text-primary">04.</span>
+          <span className="mr-2 font-mono text-xl text-primary">03.</span>
           Skills & Technologies
           <span className="ml-4 h-px flex-1 bg-muted" />
         </h2>
